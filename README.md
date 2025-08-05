@@ -38,9 +38,12 @@
 
 ---
 
-# 💻 Tech Stack
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" />
+<h2 align=center items=center>
+	💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px" />
+</h2> 
 
+<div align=center>
+	
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,13 +57,21 @@
 ![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/sequelize-52b0e7?style=for-the-badge&logo=sequelize&logoColor=white)
+</div>
 
-### 📦 Libraries I Use
+<h2 align=center>
+	📦 Libraries I Use
+</h2>
 
+<div align=center>
+	
 ![Zustand](https://img.shields.io/badge/zustand-%23121011.svg?style=for-the-badge&logo=zustand&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/tanstack%20query-%23ff4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Zod](https://img.shields.io/badge/zod-%2300bfa5.svg?style=for-the-badge&logoColor=white)
 ![React Router](https://img.shields.io/badge/react%20router-%23ca4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Express Validator](https://img.shields.io/badge/express--validator-%23007ACC.svg?style=for-the-badge&logo=checkmarx&logoColor=white)
+![JWT](https://img.shields.io/badge/jwt-%2300ACEE.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+</div>
 
 ---
 
