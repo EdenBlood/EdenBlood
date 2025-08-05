@@ -2,17 +2,17 @@
 
 <p align="center">
 	<a href="https://github.com/edenblood">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+with+TypeScript+Developer;MERN+%7C+PERN+Stack+Enthusiast;React+%7C+Astro+%7C+Tailwind+CSS+Lover;Always+learning+and+building&center=true&width=500&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+TypeScript+Developer;MERN+and+PERN+Stacks+with+TypeScript;Using+Next.js+%7C+Astro+Meta+Framework;I+love+learning+more+and+more;I+love+TypeScript&center=true&width=500&height=45">
 	</a>
 </p>
 
 <pre>
-💻 Full Stack Developer focused on modern web technologies and clean architecture
+💻 Full Stack Developer focused on modern web technologies
 🧠 Specialized in TypeScript with both MERN (MongoDB, Express, React, Node) and PERN (PostgreSQL, Express, React, Node) stacks
 🚀 I also build fast, modern static websites using Astro
 🧩 I work with architectural patterns such as MVC, Handlers, and have knowledge of Clean Architecture principles
-🔍 Passionate about reusable components, intuitive interfaces, and scalable, maintainable codebases
 📦 Experienced with Zustand, TanStack Query, Zod, and React Router
+🔍 Passionate about reusable components, intuitive interfaces, and scalable, maintainable codebases
 🛠 Always refining my skills with a strong interest in performance, code quality, and developer experience
 🌐 Actively building personal projects and tools for the dev community
 </pre>
@@ -24,15 +24,16 @@
 
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:fnmontechiani@gmail.com" target="_blank">
     <img alt="Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img alt="LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://your-portfolio-link.com">
-    <img alt="Portfolio" width="26px" src="https://img.shields.io/badge/Portfolio-121212?style=flat-square&logo=vercel&logoColor=white" />
+  <a href="https://edenblood-portfolio.netlify.app/" target="_blank">
+     <img alt="Portfolio" width="26px" src="https://cdn-icons-png.flaticon.com/512/2922/2922506.png" />
   </a>
+
 </p>
 
 ---
@@ -64,13 +65,11 @@
 ---
 
 
-
-<a href="https://github.com/edenblood/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=edenblood&show_icons=true&theme=gotham#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/edenblood/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenblood&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
-</a>
+<p align=center>
+	<a href="https://github.com/edenblood/github-readme-stats#gh-dark-mode-only">
+	  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenblood&layout=compact&langs_count=6&hide=jupyter%20notebook&card_width=600&theme=dark&title_color=fuchsia" />
+	</a>
+</p>
 <a href="https://github.com/edenblood/github-readme-stats#gh-light-mode-only">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=edenblood&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
