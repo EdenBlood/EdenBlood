@@ -7,14 +7,14 @@
 </p>
 
 <pre>
-💻 Full Stack Developer focused on modern web technologies
-🧠 Specialized in TypeScript with both MERN (MongoDB, Express, React, Node) and PERN (PostgreSQL, Express, React, Node) stacks
-🚀 I also build fast, modern static websites using Astro
-🧩 I work with architectural patterns such as MVC, Handlers, and have knowledge of Clean Architecture principles
-📦 Experienced with Zustand, TanStack Query, Zod, and React Router
-🔍 Passionate about reusable components, intuitive interfaces, and scalable, maintainable codebases
-🛠 Always refining my skills with a strong interest in performance, code quality, and developer experience
-🌐 Actively building personal projects and tools for the dev community
+💻 Full Stack Developer focused on modern web technologies  
+🧠 Specialized in TypeScript with both MERN (MongoDB, Express, React, Node) and PERN (PostgreSQL, Express, React, Node) stacks  
+🚀 I build fast, modern applications using Next.js and Astro as meta-frameworks  
+🧩 I work with architectural patterns such as MVC, Handlers, and have knowledge of Clean Architecture principles  
+📦 Experienced with Zustand, TanStack Query, Zod, and React Router  
+🔍 Passionate about reusable components, intuitive interfaces, and scalable, maintainable codebases  
+🛠 Always refining my skills with a strong interest in performance, code quality, and developer experience  
+🌐 Actively building personal projects and tools for the dev community 
 </pre>
 
 <div align="center">
@@ -30,7 +30,7 @@
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img alt="LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://edenblood-portfolio.netlify.app/" target="_blank">
+  <a href="https://fmontechiani.com/" target="_blank">
      <img alt="Portfolio" width="26px" src="https://cdn-icons-png.flaticon.com/512/2922/2922506.png" />
   </a>
 
@@ -49,6 +49,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%23ffffff.svg?style=for-the-badge&logo=astro&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -57,7 +58,9 @@
 ![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/sequelize-52b0e7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 </div>
+
 
 <h2 align=center>
 	📦 Libraries I Use
